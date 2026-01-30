@@ -2,4 +2,4 @@
 Git Demonstration
 
 ## Collaborator - Priyanka G3
-Role: Student
+Role: CSE STUDENT
