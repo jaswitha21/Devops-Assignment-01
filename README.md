@@ -2,7 +2,7 @@
 Git Demonstration
 
 ## Collaborator - Priyanka G3
-Role: CSE STUDENT
+Role: CSE STUDENT and Developer
 
 ## New Update 
 This should be done by priya
